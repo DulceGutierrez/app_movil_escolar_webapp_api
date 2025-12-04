@@ -54,4 +54,14 @@ Inicia el servidor de desarrollo de Django:
 python manage.py runserver
 ```
 ### 5.  Acceso en navegador
-El API estará accesible en tu navegador o cliente API en: [text](http://127.0.0.1:8000/)
+El API estará accesible en tu navegador o cliente API en: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+---
+
+## Configuración de Base de Datos
+El proyecto está diseñado para conectarse a una base de datos MySQL o Cloud SQL.
+ - La configuración del cliente es a través del archivo my.cnf.
+ - Los parámetros de conexión (como el socket o las credenciales) deben ajustarse en el archivo de settings correspondiente.
+
+---
+
