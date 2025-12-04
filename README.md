@@ -1,6 +1,3 @@
-# backend
-backend para front de proyectos
-
 # Backend API – Sistema Escolar Móvil
 
 **API** construida en **Django**, preparada para integrarse con una aplicación móvil/web escolar y desplegarse (en Google Cloud (App Engine)).
